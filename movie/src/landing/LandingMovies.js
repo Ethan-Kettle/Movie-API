@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import '../scss/landingMovies.scss'
-const key = '6b9f844777c1c7871dcdef89004ab36e';
+const key = 'f839cc5221a4442baa47bf5494ebe08b';
 
 export default function LandingMovies({getLandingMovies}) {
   async function ApiCall() {
